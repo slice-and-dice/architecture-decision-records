@@ -22,5 +22,8 @@ Companies House - It is possible to use their APIs to search for a businesses re
 
 Google APIs - It is possible to use the Places API to search for an organisation at an address.
 
+Given the above and a coded prototype, it has been proven that offering premises validation as a re-usable module is possible.
+
 ## Consequences
 
+The above services vary in terms of service, pricing and other licensing which will need to be carefully considered.
